@@ -1,6 +1,7 @@
 # AmongUs
 
-<img src="https://i.ibb.co/4g8RSxW/image-1.png" width="250"/>
+<img src="https://i.ibb.co/4g8RSxW/image-1.png" width="250"/> <img src="https://github.com/bhav09/AmongUs/blob/main/amongus.gif" width="500"/>
+
 
 The aim of this repo is to make a prototype which would be able to conrol the movements of a player in Among Us.
 
@@ -32,4 +33,3 @@ It is project for fun.
 
 ## Demo
 
-<img src="https://github.com/bhav09/AmongUs/blob/main/amongus.gif" width="500"/>
