@@ -5,7 +5,7 @@
 
 The aim of this repo is to make a prototype which would be able to conrol the movements of a player in Among Us.
 
-It is project for fun. 
+It is a project for fun. 
 
 ## About the files
 
