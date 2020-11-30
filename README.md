@@ -31,4 +31,4 @@ It is project for fun.
 
 * Bluestacks (for playing Among Us on PC)
 
-![](Untitled-design.gif)
+<img src="https://github.com/bhav09/AmongUs/blob/main/Untitled%20design.gif" width="500"/>
