@@ -31,5 +31,11 @@ It is project for fun.
 
 * Bluestacks (for playing Among Us on PC)
 
-## Demo
+## References
+
+* [KeyBoard Module](https://www.tutorialspoint.com/keyboard-module-in-python)
+
+* [Colour Chart](https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv)
+
+* [Adding GIF](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file)
 
