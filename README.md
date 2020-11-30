@@ -32,4 +32,4 @@ It is project for fun.
 
 ## Demo
 
-<img src="https://github.com/bhav09/AmongUs/blob/main/demo_gif.gif" width="500"/>
+<img src="https://github.com/bhav09/AmongUs/blob/main/amongus.gif" width="500"/>
