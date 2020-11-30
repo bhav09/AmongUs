@@ -27,9 +27,9 @@ It is project for fun.
 
 * Time
 
-* Screen Recorder
+* Screen Recorder (Software)
 
-* Bluestacks (for playing Among Us on PC)
+* Bluestacks (Software for playing Among Us on PC)
 
 ## References
 
