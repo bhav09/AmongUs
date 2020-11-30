@@ -17,4 +17,17 @@ It is project for fun.
 
 * findingcolours.py is to find the colour range in hsv.
 
+## Dependencies
+
+* Keyboard Module
+
+* Open CV
+
+* Numpy
+
+* Time
+
+* Screen Recorder
+
+* Bluestacks (for playing Among Us on PC)
 
