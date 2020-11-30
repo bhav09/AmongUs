@@ -31,3 +31,5 @@ It is project for fun.
 
 * Bluestacks (for playing Among Us on PC)
 
+
+<img src="https://i.ibb.co/qnX2gDD/Untitled-design.gif" width="250"/>
